@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Zone 1",
+    "lowerLatitude": 15.6,
+    "upperLatitude": 56.2,
+    "lowerLongitude": -49.8,
+    "upperLongitude": -23.1
+  },
+  {
+    "name": "Zone 2",
+    "lowerLatitude": -48.8,
+    "upperLatitude": -6.9,
+    "lowerLongitude": -28.6,
+    "upperLongitude": 8.2
+  },
+  {
+    "name": "Zone 3",
+    "lowerLatitude": -43.4,
+    "upperLatitude": 8.1,
+    "lowerLongitude": -161.4,
+    "upperLongitude": -98.4
+  },
+  {
+    "name": "Zone 4",
+    "lowerLatitude": -41.1,
+    "upperLatitude": -1.4,
+    "lowerLongitude": 62.2,
+    "upperLongitude": 94.5
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "type": "CAR",
+    "fuel": "REGULAR",
+    "minimumSpeed": 25,
+    "maximumSpeed": 60,
+    "maximumTurn":  90
+  },
+  {
+    "type": "BOAT",
+    "power": "MOTOR",
+    "minimumSpeed": 25,
+    "maximumSpeed": 60,
+    "maximumTurn": 30
+  },
+  {
+    "type": "BOAT",
+    "power": "SAIL",
+    "minimumSpeed": 15,
+    "maximumSpeed": 30,
+    "maximumTurn": 30
+  }
+]
